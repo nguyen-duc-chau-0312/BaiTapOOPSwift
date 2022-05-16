@@ -136,7 +136,7 @@ class Number {
     }
 }
 
-let number = Number(a: 2, b: -3, c: -2)
+let number = Number(a: 0, b: 0, c: -2)
 let number1 = Number(a: 0, b: 0, c: 0)
 number.giaiPhuongTrinhBac2()
 print("")
