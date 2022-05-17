@@ -1,0 +1,67 @@
+{
+    "Des": "Connect",
+    "aisles":
+        {
+            "name": "Produce",
+            "shelves":
+            [
+                {
+                    "name": "Discount Produce",
+                    "product": {
+                        "name": "Banana",
+                        "points": 200,
+                        "description": "A banana that's perfectly ripe."
+                    }
+                },
+                {
+                    "name": "Discount Egg",
+                    "product": {
+                        "name": "Egg",
+                        "points": 300,
+                        "description": "A egg that's perfectly ripe."
+                    }
+                },
+                {
+                    "name": "Discount Pearl",
+                    "product": {
+                        "name": "Pearl",
+                        "points": 400,
+                        "description": "A pearl that's perfectly ripe."
+                    }
+                },
+                {
+                    "name": "Discount cherry",
+                    "product": {
+                        "name": "Cherry",
+                        "points": 500,
+                        "description": "A cherry that's perfectly ripe."
+                    }
+                },
+                {
+                    "name": "Discount apple",
+                    "product": {
+                        "name": "Apple",
+                        "points": 200,
+                        "description": "A apple that's perfectly ripe."
+                    }
+                },
+                {
+                    "name": "Discount SamSung",
+                    "product": {
+                        "name": "SamSung",
+                        "points": 200,
+                        "description": "A samsung that's perfectly ripe."
+                    }
+                },
+                {
+                    "name": "Discount IPhone",
+                    "product": {
+                        "name": "Iphone",
+                        "points": 200,
+                        "description": "A iphone that's perfectly ripe."
+                    }
+                }
+            ]
+        }
+    
+}
